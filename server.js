@@ -51,6 +51,7 @@ app.get("/products", (req, res) => {
   })
     .then((result) => {
       console.log("PRODUCTS : ", result);
+      console.log("test");
       res.send({
         products: result,
       });
