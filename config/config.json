@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "dragonyears",
+    "password": "1q2w3e4r*",
+    "database": "test_KYN",
+    "host": "19.19.20.221",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "dragonyears",
+    "password": "1q2w3e4r*",
+    "database": "test_KYN",
+    "host": "19.19.20.221",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "dragonyears",
+    "password": "1q2w3e4r*",
+    "database": "test_KYN",
+    "host": "19.19.20.221",
+    "dialect": "postgres"
+  }
+}
